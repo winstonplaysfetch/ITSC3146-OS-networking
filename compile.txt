@@ -1,0 +1,5 @@
+compile:
+g++ helloworld.cpp -o helloworld
+
+run:
+./helloworld
